@@ -56,6 +56,7 @@
 - Madimack Elite V3 pool heatpump
 - Madimack(model unknown) pool heatpump (seems to match Fairland IPH45 as well)
 - Poolex Silverline, Q-line and Vertigo heatpumps
+- POOLSANA InverPOWER
 - Remora pool heatpump
 - W'eau pool heatpump (simple model and a more complex 13kW model)
 

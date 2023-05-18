@@ -1598,3 +1598,14 @@ TOMPD63LW_SOCKET_PAYLOAD = {
     # "105": False,
     # "106": False,
 }
+
+POOLSANA_HEATPUMP_PAYLOAD = {
+    "1": False,
+    "2": 30,
+    "3": 28,
+    "4": "ECO_Heat",
+    "11": "standby",
+    "13": "c",
+    "21": 0,
+    "updated_at": 1659284455.1327195,
+}
